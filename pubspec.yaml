@@ -1,0 +1,13 @@
+name: bwu_utils_server
+version: 0.0.1
+description: utils that depend on 'dart:io'
+author: Günter Zöchbauer <guenter@gzoechbauer.com>
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+dependencies:
+  bwu_utils:
+    path: ../bwu_utils
+
+dev_dependencies:
+  unittest: any
