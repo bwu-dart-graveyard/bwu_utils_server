@@ -1,5 +1,5 @@
 name: bwu_utils_server
-version: 0.0.1
+version: 0.0.2
 description: utils that depend on 'dart:io'
 homepage: https://github.com/bwu-dart/bwu_utils_server
 author: Günter Zöchbauer <guenter@gzoechbauer.com>
