@@ -2,11 +2,9 @@
 # See http://pub.dartlang.org/doc/glossary.html#lockfile
 packages:
   bwu_utils:
-    description:
-      path: "../bwu_utils"
-      relative: true
-    source: path
-    version: "0.0.0"
+    description: bwu_utils
+    source: hosted
+    version: "0.0.1"
   matcher:
     description: matcher
     source: hosted
