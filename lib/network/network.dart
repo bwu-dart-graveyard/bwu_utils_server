@@ -24,7 +24,7 @@ const valid952HostnameRegExp = r'(([a-zA-Z]|[a-zA-Z][a-zA-Z0-9\-]*[a-zA-Z0-9])\.
 /// The maximal valid port number for IPV4 and IPV6
 const maxIpV4PortNumber = 65535;
 
-/// Finds the next free IP port an a specified interface and returns it.
+/// Finds the next free IP port form the specified interface and returns it.
 Future<int> getNextFreeIpPort(
     [host]) async {
   if(host == null) {

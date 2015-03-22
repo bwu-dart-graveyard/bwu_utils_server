@@ -13,4 +13,5 @@ _from_packages
 *.dart.js
 *.dart.js.deps
 *.dart.js.map
+.pub
 
